@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\Antho\Downloads\final_project_revised\temp.py", line 115, in <module>
+    web_data = web_scraper.data
+               ^^^^^^^^^^^^^^^^
+AttributeError: 'WebScraper' object has no attribute 'data'
